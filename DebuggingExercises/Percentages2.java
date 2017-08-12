@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+Code by Jonah Burnaby
+ */
 public class Percentages2 {
 
     public static void main(String[] args) {
